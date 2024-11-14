@@ -1,4 +1,4 @@
-![Add a heading](https://github.com/user-attachments/assets/42569751-cd01-47c7-83b3-22d1cb8122f0)
+![Space Science Google Classroom Header (2)](https://github.com/user-attachments/assets/ae9fc462-9ac4-4ecf-9929-68c8fb1d8ab2)
 
 <div align="center">
   <img height="80" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=572dff&duration=4000&lines=Hi+There!+👋;+I'm+Juan!;"  />
