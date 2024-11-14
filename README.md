@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Juan P Kuganda</h1>
+![Add a heading](https://github.com/user-attachments/assets/42569751-cd01-47c7-83b3-22d1cb8122f0)
+
 <h3 align="justify">I’m currently pursuing a degree in Informatics Engineering at Tadulako University. My passion lies in front-end development and UI/UX design, and I’m actively expanding my skills in programming and public speaking. I’m proficient in C++, Python, HTML, CSS, and JavaScript, and I’m dedicated to honing my expertise in these areas.</h3>
 
 <h3 align="left">Connect with me:</h3>
