@@ -1,4 +1,5 @@
-![Space Science Google Classroom Header (2)](https://github.com/user-attachments/assets/ae9fc462-9ac4-4ecf-9929-68c8fb1d8ab2)
+![Add a heading](https://github.com/user-attachments/assets/b0a48f19-7800-405d-9b87-669f0f348f38)
+
 
 <div align="center">
   <img height="80" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=572dff&duration=4000&lines=Hi+There!+👋;+I'm+Juan!;"  />
@@ -43,9 +44,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
-
 <hr>
-
+<div align="center">  
+<img src="https://i.imgur.com/rTZkf4K.gif" >
+</div>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virus010604" alt="virus010604" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
