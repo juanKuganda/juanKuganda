@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virus010604&show_icons=true&theme=tokyonight&title_color=572dff&text_color=fafafa&bg_color=17171e&hide_border=true&locale=en&layout=compact" alt="virus010604" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virus010604&show_icons=true&theme=tokyonight&title_color=552dff&text_color=fafafa&bg_color=17171e&hide_border=true&locale=en" alt="virus010604" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=virus010604&limit=5&theme=radical&combine_all_yearly_contributions=true)
