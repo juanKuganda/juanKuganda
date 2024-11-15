@@ -48,12 +48,9 @@
 <div align="center">  
 <img src="https://i.imgur.com/rTZkf4K.gif" >
 </div>
-<br>
+<h3 align="left">Github Stastic</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virus010604" alt="virus010604" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virus010604&show_icons=true&theme=tokyonight&title_color=572dff&text_color=fafafa&bg_color=17171e&hide_border=true&locale=en&layout=compact" alt="virus010604" /></p>
 
