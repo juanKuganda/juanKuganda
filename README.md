@@ -5,7 +5,34 @@
   <img height="80" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=572dff&duration=4000&lines=Hi+There!+👋;+I'm+Juan!;"  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virus010604&label=views&color=552dff&style=flat-square" alt="virus010604" /> </p>
-<h3 align="justify">I’m currently pursuing a degree in Informatics Engineering at Tadulako University. My passion lies in front-end development and UI/UX design, and I’m actively expanding my skills in programming and public speaking. I’m proficient in C++, Python, HTML, CSS, and JavaScript, and I’m dedicated to honing my expertise in these areas.</h3>
+<h3 align="justify">Juan Pablo Putra Kuganda
+  <br>
+🎨 Graphic Design & Front-End Development Enthusiast 💻
+<br>
+I’m passionate about Graphic Design and Front-End Development, constantly exploring ways to create visually appealing and user-friendly digital experiences. Currently pursuing Informatics Engineering at Tadulako University, I am dedicated to learning and improving my skills in design and web development.
+<br>
+
+🚀 Currently Learning & Exploring:
+<br>
+🔹 JavaScript – Enhancing interactivity and dynamic web functionalities
+<br>
+🔹 TypeScript – Writing scalable and maintainable code
+<br>
+🔹 Next.js – Optimizing web development with server-side rendering
+<br>
+🔹 React.js – Building interactive and responsive user interfaces
+<br>
+🔹 Tailwind CSS – Implementing efficient and scalable styling
+
+💡 Side Skills & Technologies:
+<br>
+🔹 C++ & Python – Programming and problem-solving
+<br>
+🔹 SQL – Database management and querying
+
+<br>
+I’m always eager to collaborate, share ideas, and grow in the tech industry. Let’s connect and create something amazing together!
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -27,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="Typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="12" />
