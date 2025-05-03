@@ -79,16 +79,3 @@ I’m always eager to collaborate, share ideas, and grow in the tech industry. L
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
-<hr>
-<div align="center">  
-<img src="https://i.imgur.com/rTZkf4K.gif" >
-</div>
-<h3 align="left">Github Stastic</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virus010604" alt="virus010604" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virus010604&show_icons=true&theme=tokyonight&title_color=572dff&text_color=fafafa&bg_color=17171e&hide_border=true&locale=en&layout=compact" alt="virus010604" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virus010604&show_icons=true&theme=tokyonight&title_color=552dff&text_color=fafafa&bg_color=17171e&hide_border=true&locale=en" alt="virus010604" /></p>
-
-![](https://github-contributor-stats.vercel.app/api?username=virus010604&limit=5&theme=radical&combine_all_yearly_contributions=true)
