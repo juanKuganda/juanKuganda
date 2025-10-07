@@ -1,4 +1,4 @@
-![Desktop - 4](https://github.com/user-attachments/assets/d068ae5d-8df7-4a61-90ae-90062bbbdf34)
+<img width="1800" height="450" alt="Desktop - 4" src="https://github.com/user-attachments/assets/fd24bfb7-727f-4345-a03c-ac59c9128c02" />
 
 
 <div align="center">
