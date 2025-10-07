@@ -1,4 +1,4 @@
-<img width="1800" height="450" alt="Desktop - 4" src="https://github.com/user-attachments/assets/fd24bfb7-727f-4345-a03c-ac59c9128c02" />
+<img width="1800" height="450" alt="Desktop - 4" src="https://github.com/user-attachments/assets/a1489225-3b4d-4b6b-9201-b6693c4c9594" />
 
 
 <div align="center">
