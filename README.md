@@ -12,28 +12,6 @@
 I’m passionate about Graphic Design and Front-End Development, constantly exploring ways to create visually appealing and user-friendly digital experiences. Currently pursuing Informatics Engineering at Tadulako University, I am dedicated to learning and improving my skills in design and web development.
 <br>
 
-🚀 Currently Learning & Exploring:
-<br>
-🔹 JavaScript – Enhancing interactivity and dynamic web functionalities
-<br>
-🔹 TypeScript – Writing scalable and maintainable code
-<br>
-🔹 Next.js – Optimizing web development with server-side rendering
-<br>
-🔹 React.js – Building interactive and responsive user interfaces
-<br>
-🔹 Tailwind CSS – Implementing efficient and scalable styling
-
-💡 Side Skills & Technologies:
-<br>
-🔹 C++ & Python – Programming and problem-solving
-<br>
-🔹 SQL – Database management and querying
-
-<br>
-I’m always eager to collaborate, share ideas, and grow in the tech industry. Let’s connect and create something amazing together!
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/juan-kuganda-b56714299/" target="_blank">
@@ -67,9 +45,9 @@ I’m always eager to collaborate, share ideas, and grow in the tech industry. L
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="50" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
