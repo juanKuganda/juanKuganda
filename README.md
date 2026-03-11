@@ -1,4 +1,4 @@
-<img width="1800" height="450" alt="Desktop - 4" src="https://github.com/user-attachments/assets/a1489225-3b4d-4b6b-9201-b6693c4c9594" />
+![Desktop - 6](https://github.com/user-attachments/assets/a891c3e9-2e61-4946-b060-c2c62810db68)
 
 
 <div align="center">
@@ -9,7 +9,7 @@
   <br>
 🎨 Graphic Design & Front-End Development Enthusiast 💻
 <br>
-I’m passionate about Graphic Design and Front-End Development, constantly exploring ways to create visually appealing and user-friendly digital experiences. Currently pursuing Informatics Engineering at Tadulako University, I am dedicated to learning and improving my skills in design and web development.
+Hello, I'm Juan, an Informatics Engineering student at Tadulako University passionate about Software Development, UI/UX, and Graphic Design. I craft clean, user-centric digital experiences, backed by practical industry experience from my Fullstack internship at Bank Sulteng. Beyond technical execution, I am deeply invested in growing the local tech ecosystem. I serve as the Chairman of Palu Developer Day 2026, Creative Lead for IFEST '25, and Content Creator for HMTI Untad, while actively contributing to HammerCode, Programming Tadulako, and Animedia as a developer and Tech Mentor. Whether I am writing code, designing interfaces, or leading a team, I am constantly learning and driven to deliver meaningful impact in every project.
 <br>
 
 <h3 align="left">Connect with me:</h3>
